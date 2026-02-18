@@ -3,5 +3,6 @@
     "image": "mcr.microsoft.com/devcontainers/python:0-3.11",
     "extensions": [
         "ms-python.python"
-    ]
+    ],
+    "postCreateCommand": "pip install debugpy"
 }
