@@ -36,6 +36,5 @@
 
 # c. use range to create a list that counts *backward* from one to 100
 
-
 # d. use range to create a list that counts *backward by 5* fromn 100
 #    as in 100, 95, 90, 85, 80...
